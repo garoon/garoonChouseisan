@@ -6,4 +6,4 @@
 なお、機能の詳細については[cybozu developer network](https://developer.cybozu.io/hc/ja/articles/360023236891)にて紹介しております。
 
 ## ダウンロード
-[garoonChouseisan-1.0-beta.zip](https://github.com/garoon/garoonChouseisan/releases/download/v1.0-beta/garoonChouseisan-1.0-beta.zip)
+[garoonChouseisan-1.1-beta.zip](https://github.com/garoon/garoonChouseisan/releases/download/v1.1-beta/garoonChouseisan-1.1-beta.zip)
